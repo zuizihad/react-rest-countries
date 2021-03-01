@@ -1,0 +1,18 @@
+.details{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 530px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-top: 20px;
+    position: fixed;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+.details img{
+    width: 100%;
+    border-radius: 10px;
+}
